@@ -1,11 +1,6 @@
 ## SQL-to-NOSQL
 
 As the name suggests, **sql-to-nosql** lets you run SQL scripts on your NoSQL database.
-
-### Status
-
-The project is under active development and is not yet ready to use in production. I'm aiming to launch _v-1.0_ by November 2023 with some of the most common sql operations. 🤞
-
 ---
 
 ## Installation
